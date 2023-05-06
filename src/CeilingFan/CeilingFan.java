@@ -30,7 +30,7 @@ public class CeilingFan implements Fan{
     }
 
     public String toString(){
-        return "Fan Speed is "+fanSpeed+" moving in "+fanDirection+" direction";
+        return "Current Fan Speed is "+fanSpeed+" moving in "+fanDirection+" direction";
     }
 
 }
