@@ -23,14 +23,17 @@ public class CeilingFan implements Fan{
             fanSpeed=0;
         }
     }
-
-    //get the current state of the fan using the current speed
-    public String getFanState(){
+    //set the current state of the fan using the current speed
+    private void setFanState(){
         if(fanSpeed ==0){
             fanState="off";
         }else{
             fanState="running";
         }
+    }
+    //get the current state of the fan
+    public String getFanState(){
+        setFanState();
         return fanState;
     }
 

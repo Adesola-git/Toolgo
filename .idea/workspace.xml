@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8507bdd0-c034-4587-862b-91228e3b6001" name="Changes" comment="Tested Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decisions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Decisions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CeilingFan/CeilingFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CeilingFan/CeilingFan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683340298389</updated>
-      <workItem from="1683340299965" duration="6273000" />
+      <workItem from="1683340299965" duration="6837000" />
     </task>
     <task id="LOCAL-00001" summary="untested">
       <created>1683369099026</created>
@@ -91,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683371868403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tested Code">
+      <created>1683375195067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683375195067</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tested Code">
+      <created>1683375252006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683375252006</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
