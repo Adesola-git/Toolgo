@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8507bdd0-c034-4587-862b-91228e3b6001" name="Changes" comment="untested">
-      <change afterPath="$PROJECT_DIR$/src/CeilingFan/Demo.java" afterDir="false" />
+    <list default="true" id="8507bdd0-c034-4587-862b-91228e3b6001" name="Changes" comment="class print method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CeilingFan/CeilingFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CeilingFan/CeilingFan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CeilingFan/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CeilingFan/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CeilingFan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CeilingFan/Fan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683340298389</updated>
-      <workItem from="1683340299965" duration="2880000" />
+      <workItem from="1683340299965" duration="5022000" />
     </task>
     <task id="LOCAL-00001" summary="untested">
       <created>1683369099026</created>
@@ -63,14 +64,47 @@
       <option name="project" value="LOCAL" />
       <updated>1683369099026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class print method">
+      <created>1683369744748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683369744748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="class print method">
+      <created>1683369848679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683369848679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="class print method">
+      <created>1683369931836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683369931836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="untested" />
-    <option name="LAST_COMMIT_MESSAGE" value="untested" />
+    <MESSAGE value="class print method" />
+    <option name="LAST_COMMIT_MESSAGE" value="class print method" />
   </component>
 </project>
