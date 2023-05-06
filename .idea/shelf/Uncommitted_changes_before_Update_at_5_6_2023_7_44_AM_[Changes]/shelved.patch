@@ -1,0 +1,20 @@
+Index: src/CeilingFan/Demo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/CeilingFan/Demo.java b/src/CeilingFan/Demo.java
+new file mode 100644
+--- /dev/null	(date 1683369677898)
++++ b/src/CeilingFan/Demo.java	(date 1683369677898)
+@@ -0,0 +1,10 @@
++package CeilingFan;
++
++public class Demo {
++    public static void main(String[]args){
++
++        CeilingFan MyFan = new CeilingFan(3);
++
++
++    }
++}
