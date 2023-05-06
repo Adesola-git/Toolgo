@@ -3,12 +3,14 @@ package CeilingFan;
 public class CeilingFan implements Fan{
     private int fanSpeed;
     private int maxSpeed;
+    private String fanState;
     private String fanDirection;
     //Constructor initializes fan Speed to 0, set direction and maximum speed
     public CeilingFan(int maxSpeed){
         fanSpeed =0;
         fanDirection ="forward";
         this.maxSpeed = maxSpeed;
+        fanState = "off";
     }
 
     //Increase speed method implementation
@@ -22,6 +24,16 @@ public class CeilingFan implements Fan{
         }
     }
 
+    //get the current state of the fan using the current speed
+    public String getFanState(){
+        if(fanSpeed ==0){
+            fanState="off";
+        }else{
+            fanState="running";
+        }
+        return fanState;
+    }
+
     //change direction method implementation
     @Override
     public void changeDirection() {
@@ -33,7 +45,7 @@ public class CeilingFan implements Fan{
     }
     //Print method for class
     public String toString(){
-        return "Current Fan Speed is "+fanSpeed+" in "+fanDirection+" direction";
+        return "Fan is "+getFanState()+" at Speed "+fanSpeed+" in "+fanDirection+" direction";
     }
 
 }
