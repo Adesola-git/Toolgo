@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8507bdd0-c034-4587-862b-91228e3b6001" name="Changes" comment="Tested Code" />
+    <list default="true" id="8507bdd0-c034-4587-862b-91228e3b6001" name="Changes" comment="Tested Code">
+      <change afterPath="$PROJECT_DIR$/tvshow-website/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/components/Navbar/NavbarElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/components/Navbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/components/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/home_Img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/home_new.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/home_new1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/user-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/img/user-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/community.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/community.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/episodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/pages/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvshow-website/src/user-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,19 +68,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +91,7 @@
       <updated>1683340298389</updated>
       <workItem from="1683340299965" duration="6837000" />
       <workItem from="1683378281154" duration="220000" />
+      <workItem from="1683563356977" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="untested">
       <created>1683369099026</created>
